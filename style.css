@@ -1,0 +1,11 @@
+/*
+Darren Douglas
+Earthquake data parsing
+*/
+#myInput {
+	width: 25%;
+	margin: 0 0 10px 5px;
+}
+#detailsContainer0, #detailsContainer1, #detailsContainer2, #detailsContainer3, #detailsContainer4, #detailsContainer5, #detailsContainer6, #detailsContainer7, #detailsContainer8, #detailsContainer9, #detailsContainer10, #detailsContainer11, #detailsContainer12, #detailsContainer13, #detailsContainer14, #detailsContainer15 {
+	display: none;
+}
